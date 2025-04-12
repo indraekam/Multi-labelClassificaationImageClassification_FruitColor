@@ -1,3 +1,6 @@
+![Banner](assets/banner_multi_label.png)
+
+
 # 🍎 King of Fruits – Fruit & Color Classification using ResNet50
 
 This project builds an image classifier using **ResNet50**, a deep pretrained **Convolutional Neural Network (CNN)**, to predict **fruit type and color** from image data.  
